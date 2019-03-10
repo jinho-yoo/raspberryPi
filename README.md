@@ -1,5 +1,5 @@
 # raspberryPi
-uboot
+uboot(The Universal Bootloader)
 
 minimum set of bootstrapping:
 
