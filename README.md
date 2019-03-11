@@ -1,4 +1,7 @@
 # raspberryPi
+
+(refer to: https://www.beyondlogic.org/compiling-u-boot-with-device-tree-support-for-the-raspberry-pi/)
+
 uboot(The Universal Bootloader)
 
 minimum set of bootstrapping:
@@ -109,4 +112,4 @@ sudo umount /media/card
 Console
 When booting, the console is available using a HDMI display and USB keyboard, and via the UART (Pin 8:TXD, Pin 10:RXD) @ 115,200bps.
 
-(refer to: https://www.beyondlogic.org/compiling-u-boot-with-device-tree-support-for-the-raspberry-pi/)
+
